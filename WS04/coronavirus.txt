@@ -1,0 +1,48 @@
+By Sara Harrison Science 03.03.2020 05:28 PM
+Ask the Know-It-Alls: What Is the Coronavirus?
+Q: What is the coronavirus?
+
+Coronaviruses are a family of hundreds of viruses that can cause fever, respiratory problems, and sometimes gastrointestinal symptoms too. The 2019 novel coronavirus is one of seven members of this family known to infect humans, and the third in the past three decades to jump from animals to humans. Since emerging in China in December, this new coronavirus has caused a global health emergency.
+How does it spread?
+
+Itâ€™s likely to be transmitted in droplets from coughing or sneezes, and the virus has a two- to 14-day incubation period. That means people could be infectious for quite a while before symptoms like fever, cough, or shortness of breath emerge.
+What are the particular symptoms of Covid-19?
+
+In the confirmed cases so far, most people get a fever with a dry cough; smaller numbers of folks might experience shortness of breath, a sore throat, or a headache.
+How can I avoid catching the coronavirus?
+
+    Wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands wash your hands. You get the point.
+
+    Clean all of your tech equipment. Just like your hands, your smartphone and keyboard and headphones and anything else gets germs on it.
+
+    Are you a health care worker? If not, don't buy a face maskâ€”that depletes supplies for the health professionals who need them. Same goes for gloves (see: "wash your hands," above).
+
+    If you're in a high-risk group (over 60, have preexisting lung disease, heart disease, diabetes, or a weakened immune system) you should seek treatment if you get sick, since it can quickly go from cough to full-blown pneumonia. Call your doctor or clinic first with your suspicions so they can direct you appropriately. If you're not in a high-risk group, better to self-isolate at home with plenty of fluids and anti-fever meds. Odds are you'll recover, and this way you won't expose anyone. Still call your doctor, so they know what's going onâ€”they may be able to direct you to people at the health department who can conduct testing. Don't go to the ER unless you're really experiencing life-threatening symptoms.
+
+Q: Is Covid-19 more deadly than the flu?
+
+That remains to be seen. According to preliminary estimates from the Centers for Disease Control and Prevention, the 2019â€“2020 flu caused 19 million to 25 million illnesses and up to 25,000 deaths. The Covid-19 numbers are harder to calculate because itâ€™s not yet clear how many people are infected. The CDC calculates the death rate at about 2 percent, which is higher than the fluâ€”but the real number might be a lot lower, because less-severe cases may not have been reported. People with more mild cases might not even go to the hospital, and health care workers might have mistaken cases for the flu or for pneumonia. If epidemiologists count only the most severe cases, the death rate will look higher because a higher proportion of those patients dieâ€”so that might not offer an accurate reflection of reality.
+The biggest difference between the two types of infection is that the health system is better prepared to fight the flu. It comes every year and, while some strains are more severe than others, doctors know how to treat and prevent it. Covid-19 is uncharted territory, because scientists have so many questions about how it spreads, and there isnâ€™t a vaccine for it.
+
+Q: How did it get its official name?
+
+The international committee tasked with classifying viruses has named the new one SARS-CoV-2, because of its close genetic ties to another coronavirus, the one that causes SARS. However, the disease caused by SARS-CoV-2â€”remember, that's the disease characterized by coughing, fever, and respiratory distressâ€”is called Covid-19. It's the name officially bestowed upon the ailment by the World Health Organization. WHO's task was to find a name that didn't demonize a particular place, animal, individual, or group of people and which was also pronounceable. It's pronounced just like it sounds: Co-Vid-Nine-teen.
+If you're confused, think about HIV/AIDS. Human-immunodeficiency virus infects people. If left untreated, HIV can lead to Acquired Immune Deficiency Syndrome, or AIDS. Some people might get infected with SARS-CoV-2 and not get sick at all. Others will come down with symptoms of the disease Covid-19. (Yeah, it sounds like the name of a robot raven to us, too.)
+Q: Where did SARS-CoV-2 come from, anyway?
+
+The first cases were identified at the tail end of 2019 in Wuhan, the capital city of Chinaâ€™s Hubei province, when hospitals started seeing patients with severe pneumonia. Like the viruses that cause MERS and SARS, the new coronavirus appears to have originated in bats, but itâ€™s not clear how the virus jumped from bats to humans or where the first infections occurred. Often, pathogens journey through an intermediary â€œanimal reservoirâ€â€”bats infect the animals, and humans come into contact with some product from that animal. That could be milk or undercooked meat, or even mucus, urine, or feces. For example, MERS moved to humans through camels, and SARS came through civet cats sold at a live animal market in Guangzhou, China.
+
+Scientists donâ€™t know why some coronaviruses have made that jump while others havenâ€™t. It may be that the viruses havenâ€™t made it to animals that humans interact with, or that the viruses donâ€™t have the right spike proteins, so they canâ€™t attach to our cells. Itâ€™s also possible that these jumps happen more often than anyone realizes, but they go unnoticed because they donâ€™t cause serious reactions.
+Q: How do coronaviruses even work?
+
+Coronaviruses are divided into four groups called genera: alpha, beta, gamma, and delta. These little invaders are zoonotic, meaning they can spread between animals and humans; gamma and delta coronaviruses mostly infect birds, while alpha and beta mostly reside in mammals.
+
+Researchers first isolated human coronaviruses in the 1960s, and for a long time they were considered pretty mild. Mostly, if you got a coronavirus, youâ€™d end up with a cold. But the most famous coronaviruses are the ones that jumped from animals to humans.
+
+Coronaviruses are made up of one strip of RNA, and that genetic material is surrounded by a membrane studded with little spike proteins. (Under a microscope, those proteins stick up in a ring around the top of the virus, giving it its nameâ€”â€œcoronaâ€ is Latin for â€œcrown.â€) When the virus gets into the body, those spike proteins attach to host cells, and the virus injects that RNA into the cellâ€™s nucleus, hijacking the replication machinery there to make more virus. Infection ensues.
+
+The severity of that infection depends on a couple of factors. One is what part of the body the virus tends to latch onto. Less serious types of coronavirus, like the ones that cause the common cold, tend to attach to cells higher up in the respiratory tractâ€”places like your nose or throat. But their more gnarly relatives attach in the lungs and bronchial tubes, causing more serious infections. The MERS virus, for example, binds to a protein found in the lower respiratory tract and the gastrointestinal tract, so that, in addition to causing respiratory problems, the virus often causes kidney failure.
+
+The other thing that contributes to the severity of the infection is the proteins the virus produces. Different genes mean different proteins; more virulent coronaviruses may have spike proteins that are better at latching onto human cells. Some coronaviruses produce proteins that can fend off the immune system, and when patients have to mount even larger immune responses, they get sicker.
+
+This story was last updated on 3/20/20 6:00pm ET
